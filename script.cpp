@@ -4,6 +4,7 @@
 #include "nativeCaller.h"  
 #include "enums.h"  
 #include <string> 
+#include "main.h"
 
 // Simple range check returns directly
 inline bool isMessShownNow(int toastState) {
